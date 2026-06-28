@@ -1,0 +1,19 @@
+{
+  "name": "projmangement",
+  "version": "1.0.0",
+  "description": "a project management aplication for beginers",
+  "keywords": [
+    "for",
+    "startup"
+  ],
+  "license": "ISC",
+  "author": "rohit kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.1"
+  }
+}
