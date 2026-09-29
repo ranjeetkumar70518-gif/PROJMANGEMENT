@@ -1,6 +1,5 @@
 # Product Requirements Document (PRD)
 
-## Project Camp Backend
 
 ### 1. Product Overview
 
